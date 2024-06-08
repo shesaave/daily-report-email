@@ -26,7 +26,7 @@ const nodemailer = require("nodemailer");
         
         Daily Report 📚
         `, // plain text body
-        html: `<h1>Daily Report 📚</h1>`, // html body
+        html: `<h1>📚 Daily Report 📚</h1>`, // html body
     });
 
 
