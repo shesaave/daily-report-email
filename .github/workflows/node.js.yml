@@ -11,7 +11,6 @@ env:
   EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
   EMAIL_TO: ${{ secrets.EMAIL_TO }}
 
-
 jobs:
   report:
 
