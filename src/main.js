@@ -1,6 +1,4 @@
-import 'dotenv/config'
-const dotenv = require('dotenv');
-dotenv.config();
+require('dotenv').config()
 
 const nodemailer = require("nodemailer");
 
